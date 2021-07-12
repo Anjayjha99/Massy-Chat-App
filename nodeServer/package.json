@@ -1,0 +1,17 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "This is our server/backend of our Massy website ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anjay Jha",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.4.1"
+  },
+  "devDependencies": {
+    "@types/socket.io": "^3.0.2"
+  }
+}
